@@ -1,0 +1,5 @@
+.trae
+node_modules
+logs
+uncaught
+/pomelo_server/game-server/uncaught

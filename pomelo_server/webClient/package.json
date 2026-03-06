@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "axios": "^1.7.9",
+    "pomelo-client": "^0.0.3",
+    "pomelo-cocos2d-js": "^0.1.4",
+    "pomelo-node-client": "^1.1.1",
+    "winston": "^3.17.0",
+    "winston-daily-rotate-file": "^5.0.0"
+  }
+}
